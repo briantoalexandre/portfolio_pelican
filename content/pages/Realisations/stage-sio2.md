@@ -1,5 +1,8 @@
 Title: Stage SIO2
 
+# vide
+
+<!--
 > **<u>FICHE DESCRIPTIVE :</u>**
 
 > <u>**Dates du stage :**</u>
@@ -16,3 +19,4 @@ Title: Stage SIO2
 
 
 # Missions & tâches réalisés : 
+-->

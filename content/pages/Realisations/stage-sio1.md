@@ -4,15 +4,17 @@ Title: Stage SIO1
 
 > <u>**Dates du stage :**</u>
 >
-> - **Date début :** XX/06/2025
-> - **Date fin :** XX/06/2025
+> - **Date début :** 18/06/2025
+> - **Date fin :** 26/06/2025
 >
-> **Entreprise :** Nom de l'entreprise
+> **Entreprise :** Club Ski Nautique de melun
 
 
 
 # Présentation de l'entreprise/société :
 
-
+C'est un club de Ski Nautique situé a melun.
 
 # Missions & tâches réalisés : 
+
+[Calendrier](https://sncm77.org/fr/calendrier.php) (PHP, JSON, JAVASCRIPT, CSS)
