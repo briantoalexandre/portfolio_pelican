@@ -9,4 +9,6 @@ Voici quelques projets réalisés durant mes deux années :
 
 + [Site API REST MOVIE DB](https://github.com/briantoalexandre/Projet_AP/tree/main/AP_API_MOVIE)
 
++ [Projet Kotlin Jeu Vidéo](https://github.com/briantoalexandre2/Projet_Kotlin) (POO)
+
 + **[Portfolio Pelican](https://github.com/briantoalexandre/portfolio_pelican)**
