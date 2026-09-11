@@ -2,7 +2,7 @@ Title: Parcours scolaire
 
 # Présentation de mon parcours scolaire
 
-Après un bac **SIO** spécialité **RISC** (**R**éseau **I**nformations & **S**ystème **C**ommunicant) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
+Après un bac **SN** spécialité **RISC** (**R**éseau **I**nformations & **S**ystème **C**ommunicant) j'avais la volonté de poursuivre dans le domaine de l'informatique. Après m'être renseigné, j'avais recensé les poursuites d'études suivantes dans le domaine de l'informatique :
 
 **1. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
 
